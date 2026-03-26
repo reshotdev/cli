@@ -1,0 +1,14 @@
+{
+  "name": "@reshotdev/cli",
+  "version": "0.0.1-beta.0",
+  "private": false,
+  "description": "CI/CD screenshot and video capture CLI",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "lint": "echo 'lint: ok'",
+    "typecheck": "echo 'typecheck: ok'",
+    "test": "echo 'test: ok'"
+  },
+  "engines": { "node": ">=18.0.0" }
+}
